@@ -47,8 +47,8 @@ body{
 	margin:auto;
 }
 .g-content-wrap .mail-img{
-	width: 1.4rem;
-	height: 1.2rem;
+	width: 1rem;
+	height: 0.8rem;
 	margin-top: 0.6rem;
 }
 .g-content-wrap .content-intro{
@@ -58,7 +58,7 @@ body{
 }
 .content-intro .content-intro-title{
 	font-weight: bold;
-	font-size: .24rem;
+	font-size: .20rem;
 }
 .content-intro .content-intro-content{
 	font-size: .12rem;
@@ -73,12 +73,12 @@ body{
 }
 .content-foot .content-foot-title{
 	color: #a0a0a6;
-	font-size: .12rem;
+	font-size: .10rem;
 }
 .content-foot .content-foot-content{
 	color: #000;
 	text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1),0 1px 3px rgba(0,0,0,0.3),0 3px 5px rgba(0,0,0,0.2),0 5px 10px rgba(0,0,0,0.25);
-	font-size: .2rem;
+	font-size: .16rem;
 	font-weight: bold;
 	animation:zoomIn 3s;
 	-webkit-animation:zoomIn 3s;
@@ -98,12 +98,12 @@ body{
 }
 .mail-imgs{
 	margin-left: 0.4rem;
-	width: 1rem;
-	height: 1rem;
+	width: 0.8rem;
+	height: 0.8rem;
 }
 .button{
 	margin-left: 0.8rem;
-	margin-top: 0.4rem;
+	margin-top: 0.2rem;
 	width: 1.2rem;
 	height: 0.6rem;
 	line-height: 0.6rem;
